@@ -87,7 +87,7 @@ DATABASES = {
 1. **Clonar el repositorio**
 
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/LuisRoft/taller-mvc-django.git
    cd taller-mvc-sql
    ```
 
