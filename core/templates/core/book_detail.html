@@ -1,0 +1,4 @@
+<h2>{{ book.title }}</h2>
+<p><strong>Author:</strong> {{ book.author.name }}</p>
+<p><strong>Published on:</strong> {{ book.publication_date }}</p>
+<a href="{% url 'book_list' %}">Back</a>
